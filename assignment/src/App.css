@@ -1,0 +1,9 @@
+.f {
+  display: flex;
+  flex-direction: row;  /* default, can be omitted */
+  flex-wrap: wrap;      /* allows wrapping */
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #f6d3d3;
+}
